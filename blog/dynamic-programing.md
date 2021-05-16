@@ -52,7 +52,7 @@ This is a naive recursive function that compute the Fibonacci number of one give
 
 The complexity algorithmic of this will be **Exponential** **O(2<sup>n</sup>)**
 
-A few runs gives me the following out put:
+A few runs gives me the following output:
 
 
 ![alt_text](images/image4.png "image_tooltip")
@@ -66,13 +66,13 @@ Up to 40, my computer took time to compute the number. \
 --- Compute fibonacci of 41 in 37.8068268299 seconds ---
 
 
-To compute Fibonacci(n) with recurrsion we have the following graph, and we noticed that we have duplicated nodes that could be eliminated these in a cache.
+To compute Fibonacci(n) with recursion we have the following graph, and we noticed that we have duplicate nodes that could be eliminated in a cache.
 
 
 ![alt_text](images/image1.png "image_tooltip")
 
 
-By applying memoization like the following :
+By applying memoization like following :
 
 
 ```
@@ -104,4 +104,4 @@ As we see, the results are completely different!.
 
 Dynamic programming is powerful to solve complex problems of maximization, it could be used for example to find the shortest path, Palindrome Partitioning, Maximization/minimization,...
 
-It could be a sum of recursion and memoization.
+To simplify, here Dinamic programing = recursion + memoization
