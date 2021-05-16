@@ -65,6 +65,13 @@ Up to 40, my computer took time to compute the number. \
 
 --- Compute fibonacci of 41 in 37.8068268299 seconds ---
 
+
+To compute Fibonacci(n) with recurrsion we have the following graph, and we noticed that we have duplicated nodes that could be eliminated these in a cache.
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
 By applying memoization like the following :
 
 
