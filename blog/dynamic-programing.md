@@ -1,14 +1,3 @@
-
-It’s been a long time that I wanted to write a few things about my passion, which is the computer programming.
-
-So, I jump.
-
-
-![alt_text](images/image1.gif "image_tooltip")
-
-
-Then, I’d like to start this adventure with the Dynamic programming.
-
 <h1>Dynamic programming.</h1>
 
 
@@ -21,7 +10,6 @@ Looks scary.
 
 The name sounds scary, but it’s a powerful tool that help us to solve complex problems.
 
- 
 
 There is a lot of great articles about the dynamic programming, I’ll not enter to the details on that. I just want to share my understanding. Dynamic programming is an optimization of an algorithm by using different technics. The father of Dynamic programming is [Richard Bellman](https://en.wikipedia.org/wiki/Richard_Bellman).
 
